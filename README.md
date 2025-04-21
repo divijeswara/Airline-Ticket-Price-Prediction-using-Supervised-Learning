@@ -26,7 +26,7 @@ Linear regression model training and prediction
 Model accuracy score evaluation
 
 How to Run
-Clone the repository: git clone https://github.com/your-username/airline-ticket-price-prediction.git
+Clone the repository: git clone https://github.com/divijeswara/airline-ticket-price-prediction.git
 
 Install dependencies: pip install -r requirements.txt
 
